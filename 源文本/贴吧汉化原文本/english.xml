@@ -1265,7 +1265,7 @@
 	<content contentuid="h0bd7653egd27eg42acga51ag2420e03a4bae">您确定要将键位设置恢复到默认吗？</content>
 	<content contentuid="h0bdbecc3gc17eg4cc1g9a07g38a64963518c">我的终极目的。是的……或许我现在还不应提起。为时过早</content>
 	<content contentuid="h0bdc0ca4g8f1bg4518g9126ge1b77afa03be">我们又见面了！我一直希望能同你再见上一面</content>
-	<content contentuid="h0bdc0f1fg15e6g43c7ga8e3gac369e635e02">改变游戏规则。</content>
+	<content contentuid="h0bdc0f1fg15e6g43c7ga8e3gac369e635e02">改变画面设置</content>
 	<content contentuid="h0bdea262g4641g465dg82d4g479a32380f39">被亵渎的教堂</content>
 	<content contentuid="h0be27abega317g44fag8e9bg6a2152a8232c">当你见到一个自称曼戈斯的牧师，你就知道你来对地方了。他保护着血液，你必须彻底将他击溃</content>
 	<content contentuid="h0be54f1ag578cg49e7gb7eeg2b754c076219">做起来容易逃跑很难……</content>
@@ -3833,7 +3833,7 @@
 	<content contentuid="h233156bdga4dbg49d5gb239g7ea3b1acf955">往好的方面看：所有人都知道丑陋的士兵是最凶狠的</content>
 	<content contentuid="h2334b624g5e3cg4c48ga85fga44ddccf4887">朋友，在你进入永恒之前请听我一言：我目睹过星球诞生和种族灭绝，也见证过帝国崛起和生灵涂炭。但是这时间的重新编织…还有英雄的复苏…你倒是讲了一个迄今位置最有意思的故事。谢谢你。</content>
 	<content contentuid="h2335abfcg5d5cg48d7g9639g4895d9c217e5">我们见了一位年老的精灵，爱格兰达，他让我们在蟹堡王酒馆他的房间见面。他说他需要我们的帮助</content>
-	<content contentuid="h233767bcg9472g4d23ga701g6f4ec6446a28">声音</content>
+	<content contentuid="h233767bcg9472g4d23ga701g6f4ec6446a28">语音</content>
 	<content contentuid="h233771dcg0a53g4df8g9f03gb8a3aed0491d">她可怜那些守护者</content>
 	<content contentuid="h23379bbfg591cg402ag8eb4g667ee75aa8ce">[自私的+1]辛辛苦苦到手的果子就这么丢掉？我可不同意！</content>
 	<content contentuid="h2337ec28gb7e0g471bg8f8agcedb4bf66b8a">霸体</content>
@@ -4912,7 +4912,7 @@
 	<content contentuid="h2d96175eg93d1g43a3gba52g174976f8f58e">这一拳凶猛有力……</content>
 	<content contentuid="h2d96c452g56ecg44b9ga4f6gdae98c81803c">跟我讲讲左边远处那人</content>
 	<content contentuid="h2d975d9bg7b5fg498fga42cg6eab6c6a4137">他们说这些地方到处都是狂暴生物。</content>
-	<content contentuid="h2d9af495ge64bg42a9gaa6cge358e8e58510">未解锁！</content>
+	<content contentuid="h2d9af495ge64bg42a9gaa6cge358e8e58510">解锁！</content>
 	<content contentuid="h2d9b5adcge728g49cbgbaa3g723ab205498e">冻结吧！</content>
 	<content contentuid="h2d9c61c2g3ba7g4e83ga5e6g565e5e6ef30e">钢水！</content>
 	<content contentuid="h2da13cd6g5e65g4d72g810agabe7489d85f7">为什么你怀疑艾芙琳（Evelyn）？</content>
@@ -8251,7 +8251,7 @@
 	<content contentuid="h4ca3d4e8g4d22g4464gbb74g78bcb57280c2">呸！我可没工夫为了救你们小命修理这地方。趁我改主意之前赶紧滚蛋</content>
 	<content contentuid="h4ca3e484ga231g40ecga385gf60b28f81013">老鼠洞</content>
 	<content contentuid="h4ca56a14gf34bg409dg9a55g73760adb66c4">你……你一点也不好！</content>
-	<content contentuid="h4ca75b5ag5e98g4be8g9037geff155f426be">未解锁！</content>
+	<content contentuid="h4ca75b5ag5e98g4be8g9037geff155f426be">解锁！</content>
 	<content contentuid="h4ca94139g2a40g450agaa15g6d6b20ac3960">这里的这位女士——这位策划着复仇的女士……她在我打猎的时候潜伏在我身后，而我只是自卫。我……我不会故意伤害一名无辜的女性的</content>
 	<content contentuid="h4caa723ega5dfg438fga1bdgba5f3473d818">你以为自己能厚着脸皮走掉？休想！这些血石是我们的，现在我们要拿回来！</content>
 	<content contentuid="h4cad0147gf0c8g4556g850dg3886f1d4e4f4">谢天谢地，源力猎人来了。我都快等疯了</content>
@@ -11748,7 +11748,7 @@
 	<content contentuid="h6bf63951g2ac2g421dga7f6g4db5ef8f5d45">痛苦枷锁技能书</content>
 	<content contentuid="h6bf7caf0g7756g443bg926dg1ee5975ee133">潜行</content>
 	<content contentuid="h6bf8d8feg5234g404bg9b50ga32041dc3d92">顺从</content>
-	<content contentuid="h6bfece23g4b04g4426gb219gd294149522cb">大师</content>
+	<content contentuid="h6bfece23g4b04g4426gb219gd294149522cb">主音量</content>
 	<content contentuid="h6c00ff95gd12ag40c6gbe70gce5c584c8106">我们有太多敌人要对付，但他是我最想干掉的！</content>
 	<content contentuid="h6c02af18g7d5fg49f7g873dgf98d708ac1e6">目标必须是敌人</content>
 	<content contentuid="h6c033c82g1ad7g4cd4gb7cfg75d2ca7d2e5e">放一段时间最好……</content>
@@ -15728,7 +15728,7 @@
 	<content contentuid="h8fd300d1gebfdg4ccfg8f56g4a47bc3e434e">打开/关闭输入模式</content>
 	<content contentuid="h8fd4c347g9889g49bdgba56gd5d6a94006cb">我要把你颅骨里烂掉的牙齿都拔出来！</content>
 	<content contentuid="h8fd78b17gb6a5g47cbga5d5g84cf81f3f4f2">*哈欠*哦，我非常肯定。</content>
-	<content contentuid="h8fdb94cdg7382g4bb8g91f7g52c2602295d8">解除</content>
+	<content contentuid="h8fdb94cdg7382g4bb8g91f7g52c2602295d8">解除(陷阱)</content>
 	<content contentuid="h8fde2a48g1ab9g4672g8618gfcd9135b79cd">所以灯塔那里只有几个活死人和一个絮絮叨叨的幽灵，是吧？那我的士兵们到底在哪？</content>
 	<content contentuid="h8fdf02d7g7d17g4bb5gb2beg628395d31e96">*沃格拉夫散发着骄傲的光芒。一种真正的胜利感，一种真正的英雄的感觉环绕在他身边。毫无疑问，这一刻他感到十分快乐。谁知道他这份快乐能持续多久呢？*</content>
 	<content contentuid="h8fe07846g613dg4c8fgbd3egeeb06ba8a70f">我不在意那个，首领！我喜欢困难！也不介意陷在窘境里！哈哈哈！是的，我们在雪湾里，连桨都没有，没事，即使这样我似乎也找到一些顾客！这对我来说就够了！</content>
@@ -16667,7 +16667,7 @@
 	<content contentuid="h98ae3ecbg4bffg4fd9g9c7cgf82dcc8e684c">反过来，你那样想，我很难过，因为我非常感激你的支持</content>
 	<content contentuid="h98aef5b2gb6fbg49c3g9a88g92d8175d3f58">一支很大瓶的药剂，可以恢复生命值。摇晃时发出轻轻的叮当声。</content>
 	<content contentuid="h98b08761g5a0dg43b0g8d07g170b3c3aa2e7">船……浪……冰冷、狂野的海……还有我……黑暗灯塔中的疯狂。啊，荒唐！啊，痛苦的罪恶！</content>
-	<content contentuid="h98b0d216g42deg4619g8c5dgd038582b3ed9">正在载入模块[1]</content>
+	<content contentuid="h98b0d216g42deg4619g8c5dgd038582b3ed9">正在载入模块:[1]</content>
 	<content contentuid="h98b4ad92g6791g4ac6gb15dg03c1442aad29">我们在塞希尔外发现了一些奇怪的土堆。</content>
 	<content contentuid="h98b583d5g027dg4c8cgb45ag770fd2ac2598">好了，别误会我：如果我看到任何证据，如果有任何迹象，表明兽人不仅仅是一只嗜血的恶鬼或是一只披着聪明的伪装的嗜血的恶鬼，我一定第一个站出来祝福这样的结合</content>
 	<content contentuid="h98b849cfgceaag41ffg8712g24cb345c3f6f">这些可怕的死人——以及活死人——最初都是巫师造出来的！永恒的生命是被诅咒的。只是傻瓜的白日梦而已！</content>
@@ -19178,7 +19178,7 @@
 	<content contentuid="hb01a65dag2ab4g4fc5g9a58g02f038b037b9">我会尽全力寻找答案的，源力猎人！</content>
 	<content contentuid="hb01b3ee0g9735g4a44g8824gdf43b9a780b0">这家伙拿了我的角，可我也有东西……他死定了！</content>
 	<content contentuid="hb01b88ecg7d74g49ceg8f74g3149c4c0e6f8">无等级</content>
-	<content contentuid="hb0239c1dged05g41dfg8113g5b3ece187a3d">万物都比其他事物更吵闹！</content>
+	<content contentuid="hb0239c1dged05g41dfg8113g5b3ece187a3d">调整游戏音量</content>
 	<content contentuid="hb0262befgf613g42eagbb16g96f0be9d033f">我代表矿业协会，衷心感谢你在这件事情上的协助！希望一切顺利，大人！</content>
 	<content contentuid="hb02c88a4geecbg493egaf73gfdad517bafe3">自从结婚那晚以来我从未有过如此不满足的感觉。</content>
 	<content contentuid="hb02e30dag45c8g47abg856ag7b213d18d8c2">愿七神保佑你，最慷慨的朋友！</content>
@@ -22164,7 +22164,7 @@
 	<content contentuid="hcba892f3ga4ebg4c2egb6cfgae4da6814294">我们提醒过多琳罗伊的意图，而现在她吓坏了。她恳请我们提供帮助</content>
 	<content contentuid="hcbaa115bg902cg4031g862aga879666f8a34">议员之妻</content>
 	<content contentuid="hcbaaa9ecg32cag4ed2ga6d2gcbd939e533fd">当然，不过它从前不会一直这样！很久很久以前，我父亲还是安达维尔的首席吟游诗人——事无巨细众人都希望他莅临，他也开出了自己的价格！</content>
-	<content contentuid="hcbad119ag6489g4133g9982g11388c21d669">[1]试图对[2]缴械。</content>
+	<content contentuid="hcbad119ag6489g4133g9982g11388c21d669">[1]试图对[2]缴械/拆除。</content>
 	<content contentuid="hcbae7a71g5a1ag40d9g8543g417382b02684">看看那么美的光……</content>
 	<content contentuid="hcbb5cdffg609cg427bgb982gd9b497025707">我明白了！劳尔又怎么看呢？</content>
 	<content contentuid="hcbbc4a4dgb3fbg4a33ga261g8e1de2c5d40d">我们说说你的事吧</content>
@@ -25002,7 +25002,7 @@
 	<content contentuid="he5dc9059g7b95g4fe7ga828g94a50ae27598">太重了……</content>
 	<content contentuid="he5dcd701g780bg4814gb56bg0548bd56273f">小鬼艾克亚克斯告诉我们隧道里遍布着致命的陷阱，所以我们一定要万分小心</content>
 	<content contentuid="he5dd4a65gd57bg42c5g9abagae6601665578">尸体</content>
-	<content contentuid="he5ddc1a4g6971g4b0cgad1eg63bb747f9d9e">我在想这个按钮是用来干嘛的……</content>
+	<content contentuid="he5ddc1a4g6971g4b0cgad1eg63bb747f9d9e">查看控制选项</content>
 	<content contentuid="he5de2cffg7cb7g4bbegba2eg41896709c9f0">可怜人，他真是愚蠢！哦，我是多么希望能拥有智慧！万事都有个开头，不是吗？如果我能直视她的眼睛谴责她，那这应该就是我需要的开头吧。不过那一天也许永远都不会到来。蠢到老，蠢到死。大概这就是命吧……</content>
 	<content contentuid="he5df845bgb825g4a70gac33gd529184c7cfb">第三只眼护身符</content>
 	<content contentuid="he5e12306g78d5g41a9g8f32g5a1971a7fcc9">玛多拉（Madora）告诉了我们她的故事：她曾经是负责镇上的猎人岭（Hunter's Edge)的，但她没能注意到附近的兽人袭击的信号。兽人入侵了，屠杀了镇民，并把她给打残了。她打算用血石治疗自己并准备复仇</content>
@@ -26420,7 +26420,7 @@
 	<content contentuid="hf29138bfgebe9g4191g9e56g0faa505cf598">旅行者！朋友！你们也被那些伪装者捉住了吗？</content>
 	<content contentuid="hf2918481gb38ag48e1g9133gec16287d2997">这附近看不到一只地精！我们应该在他们回来之前离开并吃点小牛肉作为午餐！</content>
 	<content contentuid="hf291f21cgfda3g4db8gb1fag4b28031b28cd">普遍认为是回音堂的伙食发生了改变，然而连神明都抵受不了如此致命的毒药。</content>
-	<content contentuid="hf2935a5cgd355g45fegad88g8083d8d04567">[1]获得了[2][3]。</content>
+	<content contentuid="hf2935a5cgd355g45fegad88g8083d8d04567">[1]获得了[2]个[3]。</content>
 	<content contentuid="hf293aebdg4bdcg408ag8a0eg93cf38105259">军团士兵</content>
 	<content contentuid="hf296a95fg5ec3g40abg9953g70afee84eba9">你已经发现了一个传送点。这些传送点将允许你在已经探索过的传送点之间快速旅行</content>
 	<content contentuid="hf29b2ccfgab87g4f7dg8405g00fe0f50b51b">人对灵性的感觉会随着时间而变化，真奇怪。我的看来增长了不少</content>
@@ -27471,7 +27471,7 @@
 	<content contentuid="hfbf8392dg9974g4108g8443g33e7a9a5703a">Epor</content>
 	<content contentuid="hfbfa2c98g914fg4db0gac85ge33df6aeeab8">坎德拉·鹰心</content>
 	<content contentuid="hfbffc903g7ef3g4615g98edgb8a0a96a549f">立刻点燃目标单位。造成[2]伤害。</content>
-	<content contentuid="hfbffd315g6f09g488dg81a4gfed70c735635">CYS_Knows杰克Truth &amp;&amp; CYS_Told杰克Truth</content>
+	<content contentuid="hfbffd315g6f09g488dg81a4gfed70c735635">CYS_Knows杰克Truth && CYS_Told杰克Truth</content>
 	<content contentuid="hfc010766g0d7ag4a67ga8c8g22942a9f0f9f">精美的银护符</content>
 	<content contentuid="hfc049570g5634g423egbe32g35f10a68c4e6">你怎么看待白银谷？</content>
 	<content contentuid="hfc0533fage2eag40efgbcafg1d882558486a">一叠牌</content>
@@ -27829,7 +27829,7 @@
 	<content contentuid="hff2236acgf0b7g4102gb1cfg5e878691bc85">噢，来吧，宝贝！我保证让你感觉天旋地转而向我索求更多……我保证！</content>
 	<content contentuid="hff2349f9g2142g4a08g94b0g30e2b2902402">别来无恙啊！有什么我能帮你的吗？</content>
 	<content contentuid="hff26f47cg9708g41d2gbfcdg32f05df4d1c8">那些白痴已经死了！我就知道那只母野兽会带来灾难！</content>
-	<content contentuid="hff2800a8g5cdbg43f4g90f8g29aa57ad917b">电影艺术</content>
+	<content contentuid="hff2800a8g5cdbg43f4g90f8g29aa57ad917b">过场动画音量</content>
 	<content contentuid="hff2886f1g01cdg4219gaf13gc7465fcf5e9d">那么让我们准备起来，我可口的小姑娘！我的意思是启程，小可爱，动起来！</content>
 	<content contentuid="hff290bdcga849g4024g9b5ag299c898cf8ed">你连当我的半个敌人都不够格！</content>
 	<content contentuid="hff29a1bbgb377g4307ga10cgceb521e83de1">他跋涉过那山洞，探索了那个魔鬼躲藏的地方，还发现了一个年轻人：最后一个活着的巨人。它当时还只有一个人类的高度，但是它身边有许多被啃了一半的动物尸体，发出恶臭，证明了它的天性</content>
