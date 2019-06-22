@@ -1,22 +1,18 @@
 Read me plz.
-ÕâÊÇÒ»¸ö¹ØÓÚÓÎÏ·¡ª¡ªDivinity: Original Sin EEµÄ±¾µØ»¯¹¤³Ì¡£
-Ô­ÎÄ±¾À´×ÔÐùÔ¯ºº»¯×é£¬²»¹ýÎÒ¿´ÁËÒ»ÏÂ£¬²»ÉÙÃ»·­Òë£¬Ó¦¸ÃÊÇºóÆÚÃ»¸úÉÏ¡£
-Ò»Ð©XMLµÄÊµÌåÊéÐ´Ò²ÊÇÓÐÎÊÌâµÄ£¬»áµ¼ÖÂÓÎÏ·ÄÚÂÒÂë¡£
-ÎÒÐÞÕýÁËÂÒÂë²¿·ÖµÄÎÄ±¾£¬²¢ÌáÈ¡ÁËÈ±Ê§¼°Â©·­µÄÎÄ±¾£¬ÓÐÐËÈ¤¿ÉÒÔ×ÔÐÐ»ñÈ¡²¢²¹ÉÏÕâÐ©·­Òë¡£
+è¿™æ˜¯ä¸€ä¸ªå…³äºŽæ¸¸æˆâ€”â€”Divinity: Original Sin EEçš„æœ¬åœ°åŒ–å·¥ç¨‹ã€‚
+åŽŸæ–‡æœ¬æ¥è‡ªè½©è¾•æ±‰åŒ–ç»„ï¼Œä¸è¿‡æˆ‘çœ‹äº†ä¸€ä¸‹ï¼Œä¸å°‘æ²¡ç¿»è¯‘ï¼Œåº”è¯¥æ˜¯åŽæœŸæ²¡è·Ÿä¸Šã€‚
+ä¸€äº›XMLçš„å®žä½“ä¹¦å†™ä¹Ÿæ˜¯æœ‰é—®é¢˜çš„ï¼Œä¼šå¯¼è‡´æ¸¸æˆå†…ä¹±ç ã€‚
+æˆ‘ä¿®æ­£äº†ä¹±ç éƒ¨åˆ†çš„æ–‡æœ¬ï¼Œå¹¶æå–äº†ç¼ºå¤±åŠæ¼ç¿»çš„æ–‡æœ¬ï¼Œæœ‰å…´è¶£å¯ä»¥è‡ªè¡ŒèŽ·å–å¹¶è¡¥ä¸Šè¿™äº›ç¿»è¯‘ã€‚
 
 
-¡¾Ò»Ð©±ØÒªËµÃ÷¡¿
-´úÂëDESS.javaÓÃÓÚ¶Ô±ÈÒ»¸öÏÖÓÐºº»¯ÎÄ±¾ºÍ×îÐÂµÄÓ¢ÎÄÎÄ±¾£¬¿ÉÒÔÉ¸Ñ¡³ö£º
-1.ÏÖÓÐºº»¯ÖÐÍü¼Ç·­ÒëµÄÎÄ±¾
-2.Ó¢ÎÄÎÄ±¾ÖÐ£¬ÐÂÌí¼ÓµÄÌõÄ¿
-²¢¶ªÆúÒÑ±»¹Ù·½É¾È¥µÄÎÞÐ§ÌõÄ¿¡£
+ã€ä¸€äº›å¿…è¦è¯´æ˜Žã€‘
+ä»£ç DESS.javaç”¨äºŽå¯¹æ¯”ä¸€ä¸ªçŽ°æœ‰æ±‰åŒ–æ–‡æœ¬å’Œæœ€æ–°çš„è‹±æ–‡æ–‡æœ¬ï¼Œå¯ä»¥ç­›é€‰å‡ºï¼š
+1.çŽ°æœ‰æ±‰åŒ–ä¸­å¿˜è®°ç¿»è¯‘çš„æ–‡æœ¬
+2.è‹±æ–‡æ–‡æœ¬ä¸­ï¼Œæ–°æ·»åŠ çš„æ¡ç›®
+å¹¶ä¸¢å¼ƒå·²è¢«å®˜æ–¹åˆ åŽ»çš„æ— æ•ˆæ¡ç›®ã€‚
 
-ÐèÒª×ÔÐÐÅäÖÃÒÔÏÂËÄ¸öÂ·¾¶Öµ¡£
-private static String urlCN="./src/data/CNenglish.xml";//ÒÑºº»¯ºÃµÄÎÄ±¾ÎÄ¼þ
-private static String urlEn="./src/data/english.xml";//Î´ºº»¯ºÃµÄÎÄ±¾ÎÄ¼þ
-private static String urlOut="./src/data/out.xml";//Êä³öÈ±Ê§ÎÄ±¾
-private static String urlCNOut="./src/data/CNout.xml";//Êä³öÒÑºº»¯ºÃµÄÎÄ±¾
-
-*½è±ðÈËÃ»ÓÃµÄGithub¹Ò×Å£¬²»ÒªÔÚÕâÀïÁªÏµÎÒ¡£
-*ÎÒ±¾ÈË²»Î¬»¤ÎÄ±¾£¬Ö»ÊÇ»áÅ¼¶ûÀ´´¦ÀíÒ»ÏÂpull¿âÇëÇó¡£
-¨r(¨s¨Œ¨t)¨q
+éœ€è¦è‡ªè¡Œé…ç½®ä»¥ä¸‹å››ä¸ªè·¯å¾„å€¼ã€‚
+private static String urlCN="./src/data/CNenglish.xml";//å·²æ±‰åŒ–å¥½çš„æ–‡æœ¬æ–‡ä»¶
+private static String urlEn="./src/data/english.xml";//æœªæ±‰åŒ–å¥½çš„æ–‡æœ¬æ–‡ä»¶
+private static String urlOut="./src/data/out.xml";//è¾“å‡ºç¼ºå¤±æ–‡æœ¬
+private static String urlCNOut="./src/data/CNout.xml";//è¾“å‡ºå·²æ±‰åŒ–å¥½çš„æ–‡æœ¬
